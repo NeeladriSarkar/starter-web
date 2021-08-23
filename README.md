@@ -1,8 +1,11 @@
 # Starter Web Repo
 
+##Making this directory newly formed
+
 This repository is for showing how Git and GitHub work
 
-##Deployment
+## Deployment
+The deployment will be manual
 
 ## Purpose
 
