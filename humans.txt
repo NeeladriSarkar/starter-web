@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Neeladri Sarkar		neeladrirahul@gmail.com
 
 # THANKS
 
