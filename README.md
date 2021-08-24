@@ -1,6 +1,8 @@
 # Starter Web Repo
 
-##Making this directory newly formed
+Adding a line for rebasing example.
+
+## Making this directory newly formed
 
 This repository is for showing how Git and GitHub work
 
