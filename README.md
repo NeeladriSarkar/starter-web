@@ -10,3 +10,7 @@ The deployment will be manual
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Copyright
+
+Git copyright 2021
