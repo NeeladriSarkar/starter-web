@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-Adding a line for rebasing example.
+Adding a line for rebasing example. More changes from myfeature branch.
 
 ## Making this directory newly formed
 
