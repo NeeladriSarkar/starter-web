@@ -19,4 +19,4 @@ Sample website with plenty of files for demos
 
 ## Copyright
 
-Git copyright 2021
+Git copyright 2021 All rights reserved.
